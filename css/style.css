@@ -176,9 +176,6 @@ Courses Area CSS
     color: #fff;
     margin-bottom: 20px;
 }
-.inner-courses .course .main-area .update-status{
-    
-}
 .inner-courses .course .main-area .update-status .status{
    float: left;
    width: 200px;
@@ -266,9 +263,6 @@ footer Area CSS
     color: #fff;
 }
 
-.inner-footer .footer-common .footer-content{
-    
-}
 .inner-footer .footer-common .footer-content a{
     font-weight: 400;
     font-size: 16px;
